@@ -20,7 +20,7 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone linkdo github ka
+git clone https://github.com/swayampandit00/locationtrack.git
 cd LocationTrack
 pip3 install -r requirements.txt
 python3 Location.py
