@@ -28,7 +28,7 @@ python3 Location.py
 
 Display on the menu ```IP Tracker```
 
-<img src="ip.png " />
+<img src="https://github.com/swayampandit00/locationtrack/blob/main/assest/ip.png " />
 
 on the IP Track menu, you can combo with the seeker tool to get the target IP
 
