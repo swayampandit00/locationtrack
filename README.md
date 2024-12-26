@@ -1,7 +1,7 @@
 # location track
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
-<img src="bn.png"/>
+<img src="https://github.com/swayampandit00/locationtrack/blob/main/assest/bn.png"/>
 
 New update :
 ```Version 2.2```
